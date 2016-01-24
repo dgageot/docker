@@ -172,6 +172,7 @@ var (
 		"eudes",
 		"fallieres",
 		"faure",
+		"ferry",
 		"françois",
 		"giscard-destaing",
 		"gontran",
